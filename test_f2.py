@@ -1,5 +1,3 @@
-5 lines (5 sloc)  129 Bytes
-   
 import pytest
 def test_spaces():
     num = 200

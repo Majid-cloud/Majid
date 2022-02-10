@@ -1,4 +1,4 @@
-print ("testing jenkins")  
+print ("testing jenkin")  
 def func(x):
     return x + 1
 
